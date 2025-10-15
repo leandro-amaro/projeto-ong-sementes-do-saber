@@ -51,5 +51,3 @@ Este projeto cumpre todos os requisitos obrigatórios da "Entrega I – Fundamen
 ## 👨‍💻 Autor
 
 * **Leandro Amaro**
-    * [LinkedIn](www.linkedin.com/in/leandro-amaro2) 
-    * [Email](leanstudy9@gmail.com)
