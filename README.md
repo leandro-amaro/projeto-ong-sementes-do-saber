@@ -50,6 +50,6 @@ Este projeto cumpre todos os requisitos obrigatórios da "Entrega I – Fundamen
 
 ## 👨‍💻 Autor
 
-* **Leandro Rodrigues**
-    * [LinkedIn](https://www.linkedin.com/) - _(Sugestão: Crie um LinkedIn e coloque o link aqui!)_
-    * [Email](mailto:seu-email-aqui@exemplo.com) - _(Sugestão: Coloque seu e-mail de contato)_
+* **Leandro Amaro**
+    * [LinkedIn](www.linkedin.com/in/leandro-amaro2) 
+    * [Email](leanstudy9@gmail.com)
